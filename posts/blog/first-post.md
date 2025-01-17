@@ -1,7 +1,7 @@
 ---
 title: First Post
 author: elmasse
-date: 2022-10-01 08:50
+date: 2022-10-01T08:50:00
 ---
 
 This is your first post. Congratulations! Check the Nextein [Documentation](https://nextein.elmasse.io/docs) and [Guides](https://nextein.elmasse.io/guides) and create an awesome blog!
