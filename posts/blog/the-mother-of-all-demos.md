@@ -1,6 +1,7 @@
 ---
 title: The Mother of All Demos
 source: wikipedia
+date: 2022-10-01 09:00
 ---
 
 _"The Mother of All Demos"_ is a name retroactively applied to a landmark computer demonstration, given at the Association for Computing Machinery / Institute of Electrical and Electronics Engineers (ACM/IEEE)—Computer Society's Fall Joint Computer Conference in San Francisco, which was presented by Douglas Engelbart on December 9, 1968.
